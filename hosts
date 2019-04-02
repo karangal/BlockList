@@ -15,10 +15,20 @@ fe80::1%lo0 localhost
 0.0.0.0 www.apple.com-fixing.live
 0.0.0.0 www.uptobox.com
 0.0.0.0 www.serve.popads.net
+0.0.0.0 www.megawinners.mobi
+0.0.0.0 www.megawinners.co.za
+0.0.0.0 www.referral.crypto.com
+0.0.0.0 www.monday.com
+0.0.0.0 www.grammarly.com
+-----------------------------------------------
 0.0.0.0 expatwoman.com
 0.0.0.0 apple.com-fixing.live
 0.0.0.0 uptobox.com
-0.0.0.0 serve.popads.net
+0.0.0.0 megawinners.mobi
+0.0.0.0 megawinners.co.za
+0.0.0.0 referral.crypto.com
+0.0.0.0 monday.com
+0.0.0.0 grammarly.com
 
 # AdultToy
 0.0.0.0 www.lovehoney.co.uk
