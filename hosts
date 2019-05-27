@@ -73,5 +73,11 @@ ff02::3 ip6-allhosts
 #AdultSites
 0.0.0.0 my-select.ru
 0.0.0.0 www.my-select.ru
+0.0.0.0 my-select.ru/#
+0.0.0.0 www.my-select.ru#
+0.0.0.0 pornoselect.ru/#
+0.0.0.0 www.pornoselect.ru/#
+0.0.0.0 pornoselect.ru
+0.0.0.0 www.pornoselect.ru
 
 # End add.Risk
